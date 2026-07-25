@@ -15,3 +15,29 @@
 🚀 Release Validations:      60+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Passionate Software QA Engineer dedicated to delivering reliable, high-quality software through meticulous testing and automation.
+
+Specialized in Manual Testing, API Testing, Regression Testing, and Test Automation using Playwright & Python.
+
+I enjoy transforming complex requirements into reliable testing strategies that improve product quality and user experience.
+
+```mermaid
+flowchart LR
+
+A[Requirements]
+
+B[Test Planning]
+
+C[Test Cases]
+
+D[Test Execution]
+
+E[Bug Reporting]
+
+F[Regression]
+
+G[Release]
+
+A-->B-->C-->D-->E-->F-->G
+```
