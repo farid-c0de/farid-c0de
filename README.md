@@ -6,13 +6,13 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📅 Professional Experience:  2+ Years
+👨‍💻 Professional Experience:  2+ Years
 
-🧪 Test Cases Executed:      1400+
+🔍 Test Cases Executed:      1400+
 
 🐞 Bugs Found & Reportde:    350+
 
-🚀 Release Validations:      60+
+✔ Release Validations:      60+
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
