@@ -104,9 +104,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=2%2B%20Years%20of%20Experience;1400%2B%20Test%20Cases%20Executed;350%2B%20Bugs%20Found%20and%20Reported;60%2B%20Projects%20Released%20%2F%20Updated" />
 </p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farid-c0de&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farid-c0de&theme=tokyo-night"/>=
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farid-c0de&theme=tokyonight"/>
 </p>
