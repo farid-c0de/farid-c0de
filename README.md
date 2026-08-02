@@ -1,10 +1,32 @@
----
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=2%2B%20Years%20of%20Experience;1400%2B%20Test%20Cases%20Executed;350%2B%20Bugs%20Found%20and%20Reported;60%2B%20Projects%20Released%20%2F%20Updated" />
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+<h1>Hi 👋, I'm Farid Ahmed</h1>
+
+<h3>Software QA Engineer | Manual • API • Automation Testing</h3>
+
+<p>
+I'm a Software QA Engineer with <b>2+ years of experience</b> in testing web applications across multiple business domains. Passionate about ensuring product quality through manual, API, and automation testing while delivering reliable, scalable, and user-friendly software applications.
+</p>
 
 ---
-  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=520&lines=2%2B+Years+of+Experience;1400%2B+Test+Cases+Executed;350%2B+Bugs+Found+and+Reported;60%2B+Projects+Released+%2F+Updated"/>
+
+</td>
+
+<td width="40%" align="right">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+width="360"/>
+
+</td>
+
+</tr>
+</table>
 <h2 align="center">⇩ Lets Connect ⇩</h2>
 <p align="center">
 <a href="https://farid-c0de.vercel.app/" target="_blank">
