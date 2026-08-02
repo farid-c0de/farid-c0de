@@ -1,4 +1,11 @@
-<h2 align="center">Lets Connect</h2>
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=2%2B%20Years%20of%20Experience;1400%2B%20Test%20Cases%20Executed;350%2B%20Bugs%20Found%20and%20Reported;60%2B%20Projects%20Released%20%2F%20Updated" />
+
+---
+  
+<h2 align="center">⇩ Lets Connect ⇩</h2>
 <p align="center">
 <a href="https://farid-c0de.vercel.app/" target="_blank">
 <img src="https://cdn.simpleicons.org/googlechrome" width="45" alt="Portfolio"/>
@@ -16,95 +23,77 @@
 <img src="https://cdn.simpleicons.org/gmail" width="45" alt="Email"/>
 </a>
 </p>
-<h1 align="center">Technologies & Tools</h1>
+
+---
+
+<h2 align="center">⇩ Tools & Technologies ⇩</h2>
 <p align="center">
 <marquee behavior="scroll" direction="left" scrollamount="8">
-<!-- QA & Automation -->
-<a href="https://playwright.dev/" target="_blank">
-<img src="https://playwright.dev/img/playwright-logo.svg" width="45" title="Playwright"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-</a>&nbsp;&nbsp;
-<a href="https://docs.pytest.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" width="45" title="Pytest"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.selenium.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45" title="Selenium"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
-</a>&nbsp;&nbsp;
-<a href="https://swagger.io/" target="_blank">
-<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="45" title="Swagger"/>
-</a>&nbsp;&nbsp;
-<!-- QA Management -->
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-<img src="https://cdn.simpleicons.org/jira/0052CC" width="45" title="Jira"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.testrail.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/testrail/65C179" width="45" title="TestRail"/>
-</a>&nbsp;&nbsp;
-<!-- Database -->
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-</a>&nbsp;&nbsp;
-<!-- DevOps -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-</a>&nbsp;&nbsp;
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.jenkins.io/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45" title="Jenkins"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-</a>&nbsp;&nbsp;
-<!-- OS & Editor -->
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
-</a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
-</a>&nbsp;&nbsp;
-<!-- Front-End Knowledge -->
-<a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-</a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-</a>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-</a>&nbsp;&nbsp;
-<a href="https://react.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-</a>&nbsp;&nbsp;
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-</a>&nbsp;&nbsp;
-<a href="https://vitejs.dev/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" title="Vite"/>
-</a>&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="45" title="Tailwind CSS"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.npmjs.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45" title="npm"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.figma.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/figma/F24E1E" width="45" title="Figma"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.json.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/json/FFFFFF" width="45" title="JSON"/>
-</a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=2%2B%20Years%20of%20Experience;1400%2B%20Test%20Cases%20Executed;350%2B%20Bugs%20Found%20and%20Reported;60%2B%20Projects%20Released%20%2F%20Updated" />
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farid-c0de&theme=tokyo-night"/>=
+  
+### 🧪 QA & Testing
+
+![Playwright](https://img.shields.io/badge/-Playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=plastic&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+
+---
+
+### 💻 Programming Languages & Frameworks
+
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
+
+---
+
+### 🗄 Database & Cloud
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+
+---
+
+### ⚙ DevOps & Version Control
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+
+---
+
+### 🛠 Tools & Platforms
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=%23FF7139)
+
+---
+
+### 🎨 Design & Creative
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
+
+---
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farid-c0de&theme=tokyonight"/>
 </p>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farid-c0de&theme=tokyo-night"/>
