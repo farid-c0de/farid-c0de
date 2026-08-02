@@ -10,10 +10,15 @@
 I'm a Software QA Engineer with <b>2+ years of experience</b> in testing web applications across multiple business domains. Passionate about ensuring product quality through manual, API, and automation testing while delivering reliable, scalable, and user-friendly software applications.
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C4FF" width="100%">
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=00C4FF&center=true&vCenter=true&width=520&lines=2%2B+Years+of+Experience;1400%2B+Test+Cases+Executed;350%2B+Bugs+Found+and+Reported;60%2B+Projects+Released+%2F+Updated"/>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C4FF" width="100%">
+</p>
 
 <h2 align="center">⇩ Lets Connect ⇩</h2>
 <p align="center">
@@ -42,9 +47,10 @@ src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-
 width="360"/>
 
 </td>
-
 </tr>
 </table>
+
+
 
 <Br>
 <Br>
@@ -65,7 +71,9 @@ width="360"/>
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C4FF" width="100%">
+</p>
 
 ### 💻 Programming Languages & Frameworks
 
@@ -83,7 +91,9 @@ width="360"/>
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C4FF" width="100%">
+</p>
 
 ### 🗄 Database & Cloud
 
@@ -91,7 +101,9 @@ width="360"/>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C4FF" width="100%">
+</p>
 
 ### ⚙ DevOps & Version Control
 
@@ -99,14 +111,18 @@ width="360"/>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C4FF" width="100%">
+</p>
 
 ### 🛠 Tools & Platforms
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=%23FF7139)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C4FF" width="100%">
+</p>
 
 ### 🎨 Design & Creative
 
@@ -114,12 +130,10 @@ width="360"/>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
 
----
-
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farid-c0de&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00C4FF" width="100%">
 </p>
 
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=farid-c0de&theme=tokyo-night"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farid-c0de&bg_color=0d1117&color=00C4FF&line=00C4FF&point=00E5FF&area=true&area_color=00C4FF&hide_border=true&custom_title=Contribution%20Graph" />
+</p>
